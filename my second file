@@ -3,3 +3,9 @@ open git bash and put in the nessary command
 open git desktop and select and clone the available repo
 make a file and edit it in git web
 and make some changes to the same text file in the same repo with a ide or editor on git desktop 
+
+#typed using ide on desktop
+
+now commit the new  edit to master
+
+and it can be reviewed in git web
